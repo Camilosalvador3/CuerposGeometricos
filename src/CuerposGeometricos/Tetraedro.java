@@ -1,0 +1,10 @@
+package CuerposGeometricos;
+
+public class Tetraedro {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
